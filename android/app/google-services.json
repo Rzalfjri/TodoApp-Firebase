@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "677929994861",
+    "firebase_url": "https://todoapp-c08eb-default-rtdb.firebaseio.com",
+    "project_id": "todoapp-c08eb",
+    "storage_bucket": "todoapp-c08eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677929994861:android:ec47f20455ad25e053cd64",
+        "android_client_info": {
+          "package_name": "com.bersyte.flutter_riverpod_todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5o5Vcn6GwKb4Vy6BruBf8zVm4aC3E-28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
